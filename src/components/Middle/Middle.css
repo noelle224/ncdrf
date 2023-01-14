@@ -1,0 +1,12 @@
+.mOptionlist{
+    display: flex;
+    margin: 0;
+}
+
+.mlistitem{
+    margin: 10px;
+}
+
+.Middle{
+    margin-left: 470px;
+}

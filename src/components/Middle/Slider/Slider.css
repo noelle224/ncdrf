@@ -1,0 +1,37 @@
+.Slider__slide{
+
+}
+
+.Slider__slider{
+    display: flex;
+}
+
+
+.Slider__slider_right{
+    height: 30px;
+    margin-top: 25%;
+    margin-left: 3%;
+}
+
+.imgslider{
+    height: 50%;
+    width: 82%;
+    margin-left: 8%;
+    margin-top: 2%;
+    animation: fadein 3s;
+}
+
+.Introduction{
+    position: absolute;
+    top: 450px;
+    left: 350px;
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+   
+}
+
+@keyframes fadein {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }

@@ -1,0 +1,43 @@
+.Topbar{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.Logo{
+    flex: 3;
+    margin: 20px;
+}
+
+.Search{
+    flex:1;
+    margin: 20px;
+    margin-top: 42px;
+}
+
+.Options{
+    display: flex;
+    flex: 7;
+   
+}
+
+
+li{
+    list-style: none;
+}
+
+.Optionlist{
+    display: flex;
+    border-bottom: 1px solid grey;
+}
+
+.Logoimage{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+}
+
+.listitem{
+    margin: 25px;
+    font-size: 12px;
+}
